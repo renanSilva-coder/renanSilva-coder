@@ -17,7 +17,7 @@ Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolv
 
 ## Entre em Contato
 - LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/)
-- Email: renan.augusto09@gmail.com
+- E-mail: renan.augusto09@gmail.com
 
 ## Obrigado por visitar!
 Obrigado por explorar meu perfil GitHub. Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos interessantes ou colaborações emocionantes.
