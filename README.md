@@ -19,6 +19,6 @@ Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolv
 ## Entre em Contato
 - LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/) 🌐
 - E-mail: renan.augusto09@gmail.com 📧
+Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos interessantes ou colaborações emocionantes! 🤝
 
-## Veja meus repositórios logo abaixo! ⤵
-E sinta-se à vontade para entrar em contato comigo se quiser discutir projetos interessantes ou colaborações emocionantes! 🤝
+## Obrigado por vistar meu perfil e veja meus repositórios logo abaixo! ⤵
