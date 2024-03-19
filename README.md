@@ -5,8 +5,7 @@ Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolv
 
 ## O que você encontrará aqui
 - **Projetos**: Uma variedade de projetos interessantes que eu tenho trabalhado, desde pequenos scripts até aplicativos completos.
-- **Contribuições**: 
-- **Artigos e Tutoriais**: Compartilhamento de conhecimento através de artigos e tutoriais sobre tópicos que me interessam.
+- **Tutoriais**: Compartilhamento de conhecimento através de artigos e tutoriais sobre tópicos que me interessam.
 
 ## Principais Tecnologias
 - Linguagens de programação: C#, JavaScript, Java
@@ -16,8 +15,8 @@ Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolv
 - Cloud Computing: AWS, Microsoft Azure
 
 ## Entre em Contato
-- LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/)
-- E-mail: renan.augusto09@gmail.com
+- LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/) 🌐
+- E-mail: renan.augusto09@gmail.com 📧
 
 ## Obrigado por visitar!
-Obrigado por explorar meu perfil GitHub. Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos interessantes ou colaborações emocionantes.
+Obrigado por explorar meu perfil GitHub. Sinta-se à vontade para entrar em contato comigo se quiser discutir projetos interessantes ou colaborações emocionantes! 🤝
