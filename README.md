@@ -5,14 +5,16 @@ Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolv
 
 ## O que você encontrará aqui
 - **Projetos**: Uma variedade de projetos interessantes que eu tenho trabalhado, desde pequenos scripts até aplicativos completos.
+- **Ferramentas**: Diversas ferramentas que foram utilizadas para trabalho e desenvolvimento desses projetos.
 - **Tutoriais**: Compartilhamento de conhecimento através de artigos e tutoriais sobre tópicos que me interessam.
 
 ## Principais Tecnologias
 - Linguagens de programação: C#, JavaScript, Java
 - Frameworks: Spring, Node.js, Angular, Laravel
-- Padrões de Projeto: MVC, MVVM e Injeção de Dependência(DI)
 - Bancos de Dados: MySQL, SQL Server, Oracle
 - Cloud Computing: AWS, Microsoft Azure
+- Ferramentas: Postman, Swagger, IDEs (Modile e Web)
+- Padrões de Projeto: MVC, MVVM e Injeção de Dependência(DI)
 
 ## Entre em Contato
 - LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/) 🌐
