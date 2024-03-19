@@ -1,11 +1,11 @@
-# 👋 Bem-vindo ao meu perfil GitHub!
+# 👋 Bem-vindo ao meu perfil!
 
 ## Sobre mim
-Olá! Eu sou [Renan Augusto], um entusiasta da tecnologia apaixonado por desenvolvimento de software e tecnologia. Meu objetivo é criar soluções inovadoras e impactantes que tornem o mundo um lugar melhor. Atualmente, estou focado em desenvolvimento de software, onde estou explorando Spring Boot e Java.
+Olá! Eu sou Renan Augusto, um entusiasta da tecnologia apaixonado por desenvolvimento de software e tecnologia. Meu objetivo é criar soluções inovadoras e impactantes que tornem o mundo um lugar melhor. Atualmente, estou focado em desenvolvimento de software, onde estou explorando Spring Boot e Java.
 
 ## O que você encontrará aqui
 - **Projetos**: Uma variedade de projetos interessantes que eu tenho trabalhado, desde pequenos scripts até aplicativos completos.
-//- **Contribuições**: Contribuições para projetos de código aberto que acredito serem importantes para a comunidade.
+- **Contribuições**: 
 - **Artigos e Tutoriais**: Compartilhamento de conhecimento através de artigos e tutoriais sobre tópicos que me interessam.
 
 ## Principais Tecnologias
@@ -15,11 +15,8 @@ Olá! Eu sou [Renan Augusto], um entusiasta da tecnologia apaixonado por desenvo
 - Bancos de Dados: MySQL, SQL Server, Oracle
 - Cloud Computing: AWS, Microsoft Azure
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
-
 ## Entre em Contato
-- LinkedIn: [seu perfil do LinkedIn](https://www.linkedin.com/in/renan-augusto-da-silva/)
+- LinkedIn: [Clique Aqui](https://www.linkedin.com/in/renan-augusto-da-silva/)
 - Email: renan.augusto09@gmail.com
 
 ## Obrigado por visitar!
